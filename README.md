@@ -12,7 +12,7 @@ Then can we find these out through classic statistical approach and machine lear
 How were these social phenomena reflected in the statistical summary of patent documents? How it differed in different types of industries or regions?
 
 ### Finding Buzzword of 19th century US by textual clustering
-We can see though patent metadata which industries were the lead in late 19th century US. But can we discover the buzzwords of that time, in each industry, by 
+We can see though patent metadata which industries were the lead in late 19th century US. But can we discover buzzwords of that time, in each industry? It is a huge work to be done by human historians. How about we adopt some automated ways to find the buzzwords? 
 
 ### Dataset:
 US patent documents from 1869-1900
